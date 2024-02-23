@@ -24,6 +24,13 @@
                       )}%22`"
                       >{{ update.episode }}</router-link
                     >
+                    <a :href="update.ep_url"
+                      ><v-icon
+                        class="ml-5 pb-1"
+                        icon="mdi-open-in-new"
+                        size="x-small"
+                      ></v-icon
+                    ></a>
                   </v-card-title>
                 </v-img>
 
