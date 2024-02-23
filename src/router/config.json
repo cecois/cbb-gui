@@ -1,0 +1,38 @@
+{
+	"index": {
+		"host": "http://milleria.org:9200",
+		"bits": "cbb",
+		"updates": "cbb_updates",
+		"geoms": "cbb_geoms"
+	},
+	"geoms": {
+		"host": "http://milleria.org:3030",
+		"route": "geoms/simple?q="
+	},
+	"colors": {
+		"primary": [
+			{ "name": "richblack", "hex": "#001219ff" },
+			{ "name": "midnightgreen", "hex": "#005f73ff" },
+			{ "name": "darkcyan", "hex": "#0a9396ff" },
+			{ "name": "tiffanyblue", "hex": "#94d2bdff" },
+			{ "name": "vanilla", "hex": "#e9d8a6ff" },
+			{ "name": "gamboge", "hex": "#ee9b00ff" },
+			{ "name": "alloyorange", "hex": "#ca6702ff" },
+			{ "name": "rust", "hex": "#bb3e03ff" },
+			{ "name": "rufous", "hex": "#ae2012ff" },
+			{ "name": "auburn", "hex": "#9b2226ff" }
+		],
+		"secondary": [
+			{ "name": "sealbrown", "hex": "#582f0eff" },
+			{ "name": "russet", "hex": "#7f4f24ff" },
+			{ "name": "rawumber", "hex": "#936639ff" },
+			{ "name": "lion", "hex": "#a68a64ff" },
+			{ "name": "khaki", "hex": "#b6ad90ff" },
+			{ "name": "sage", "hex": "#c2c5aaff" },
+			{ "name": "sage2", "hex": "#a4ac86ff" },
+			{ "name": "resedagreen", "hex": "#656d4aff" },
+			{ "name": "ebony", "hex": "#414833ff" },
+			{ "name": "blackolive", "hex": "#333d29ff" }
+		]
+	}
+}
