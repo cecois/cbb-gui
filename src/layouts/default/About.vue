@@ -41,6 +41,10 @@
                 >. Or — it goes way back —
                 <router-link to="/bits/1/bit:foam*"
                   >every time Scott axed Foam Corn—</router-link
+                >
+                or every
+                <router-link to="/bits/1/tags:%22maxwell keeper%22"
+                  >Timekeeper appearance</router-link
                 >.
               </v-card-text>
             </v-card>
